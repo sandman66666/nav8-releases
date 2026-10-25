@@ -5,6 +5,7 @@ _2026-10-25_
 
 ### Fixed
 - Signing in with Google during setup now works with whichever Google account you choose.
+
 ## 19.56
 _2026-10-24_
 
@@ -31,6 +32,7 @@ _2026-10-24_
 - A typed reply now settles a waiting question or approval card.
 - Failed connect attempts in Settings now show the reason.
 - Chat read-aloud uses the neural voice again.
+
 ## 19.55
 _2026-10-22_
 
@@ -52,12 +54,14 @@ _2026-10-22_
 - Removed the floating Claude Code pill that covered the chat composer.
 - New users are no longer asked for the Chrome keychain on every launch.
 - Slack unread dots clear when you disconnect, and Slack stops checking for unread messages.
+
 ## 19.54
 _2026-10-21_
 
 ### New
 - Nav8 can now prepare several pieces of work ahead of time and show them together, so you can review everything and approve it all with a single "Approve all" button.
 - Nav8 keeps following up on email items it has prepared until you've answered them.
+
 ## 19.53
 _2026-10-20_
 
@@ -78,6 +82,7 @@ _2026-10-20_
 - The chat toggle pill now appears above the sidebar overlay.
 - After a restore, Backup & Move points you to Connections instead of listing every secret.
 - Group notes now land in the group that created them, and Google tries the owning account.
+
 ## 19.52
 _2026-10-19_
 
@@ -86,6 +91,7 @@ _2026-10-19_
 ### Fixed
 - Fixed an issue where some Google actions run by the agent could ignore the options you gave them.
 - Fixed a brief visual glitch when pressing the pill button in the chat pane.
+
 ## 19.51
 _2026-10-19_
 
@@ -109,6 +115,7 @@ _2026-10-19_
 - Approval cards now show every recipient, including cc, along with the full message.
 - Sidebar fixes: new groups appear at the top, "New chat" and "See all" stay pinned at the bottom, and hover and selected rows look right.
 - Toolbar icons keep your theme's tint, and chat question cards follow your theme.
+
 ## 19.50
 _2026-10-14_
 
@@ -121,6 +128,7 @@ _2026-10-14_
 - Terminal tabs no longer freeze when idle while the shell is still running.
 - Nav8 can drive the coding agents it starts again.
 - Fixed agents getting stuck waiting for approval, stray text appearing after an agent stopped, and empty agent cards.
+
 ## 19.49
 _2026-10-14_
 
@@ -142,6 +150,7 @@ _2026-10-14_
 - A pasted Claude API key now counts as Claude connected during setup.
 - Fixed hover highlights that lagged or stuck in the chat sidebar, a stray colored bar in the chat header, and a duplicate tab bar when the sidebar peeks open.
 - If Messages on your Mac fails to connect, Nav8 now points you to the Full Disk Access fix.
+
 ## 19.48
 _2026-10-09_
 
@@ -155,6 +164,7 @@ _2026-10-09_
 - Onboarding now offers to connect apps, skips only the questions you've already answered, and ends the group step cleanly.
 ### Improved
 - The installer window now tells you to drag Nav8 onto Applications, with a straighter arrow.
+
 ## 19.47
 _2026-10-08_
 
@@ -165,6 +175,7 @@ _2026-10-08_
 - Updated the built-in AI agent components (Claude Code, Codex, OpenCode) to their latest versions.
 - Updated WhatsApp connection support to the latest version.
 - Updated speech transcription and browser automation components to their latest versions.
+
 ## 19.46
 _2026-10-07_
 
@@ -185,6 +196,7 @@ _2026-10-07_
 - Auto appearance now follows macOS, and sidebar pills recolour correctly when you switch themes.
 - Scheduled tasks run reliably, reminders stay in the chat that made them, and a reminder is never set for a time you didn't give.
 - Quitting saves your cookies and no longer reports a crash.
+
 ## 19.45
 _2026-09-28_
 
@@ -205,6 +217,7 @@ _2026-09-28_
 - WhatsApp connection now finishes as soon as pairing completes instead of up to 5 minutes later.
 - The New Tab toggle in 360 views no longer hangs.
 - Pages wider than the iPhone screen no longer scroll sideways into empty space.
+
 ## 19.44
 _2026-09-28_
 
@@ -224,6 +237,7 @@ _2026-09-28_
 - **Approvals:** The approvals panel shows what Nav8 did, however it was approved.
 - **Closing tabs:** ⌘W now closes tabs the same way as the close button.
 - **Favorites:** Clicking a context-menu item on a favorite now works.
+
 ## 19.43
 _2026-09-27_
 
@@ -241,6 +255,7 @@ _2026-09-27_
 - The iPhone app has a refreshed look with glass effects, theme colors that match your Mac, and clearer text.
 ### Fixed
 - Starting a second build now asks before it stops the first.
+
 ## 19.42
 _2026-09-25_
 
@@ -260,6 +275,7 @@ _2026-09-25_
 - Long steering messages to coding agents are no longer cut off, and they now send properly.
 - Signing in to ChatGPT no longer switches Claude off.
 - Failed page loads no longer crash the tab.
+
 ## 19.41
 _2026-09-24_
 
@@ -279,6 +295,7 @@ _2026-09-24_
 - Scheduled-task cards now show up in the right chat, and editing a task now updates it instead of creating a duplicate.
 - Fixed several App Builder problems: Go Live after a restart, preview crashes mid-build, and drafts left unfinished when Nav8 quits.
 - Fixed Gmail panes that lost your account or opened the wrong view when reloaded.
+
 ## 19.40
 _2026-09-22_
 
@@ -299,6 +316,7 @@ _2026-09-22_
 - Fixed terminal display problems caused by missing terminal information.
 - Starting a fresh chat now properly ends the previous Builder session.
 - A plan limit message is no longer mistaken for a rate limit.
+
 ## 19.39
 _2026-09-20_
 
@@ -321,6 +339,7 @@ _2026-09-20_
 - Approval cards now appear in the chat they belong to, not whichever chat is on screen.
 - The chat composer's lane pill no longer overlaps the buttons beside it.
 - Fixed a case where clearing empty tabs deleted a chat's Cross View home.
+
 ## 19.38
 _2026-09-14_
 
@@ -336,6 +355,7 @@ _2026-09-14_
 - The agent no longer decides a site "can't be automated" after a single bad attempt.
 - Fixed agents getting stuck in loops after being told a page reference was out of date when it had simply not been issued yet.
 - Fixed a case where a failed lookup of a helper tool was remembered and kept the agent from using it.
+
 ## 19.37
 _2026-09-10_
 
@@ -353,6 +373,7 @@ _2026-09-10_
 ### Fixed
 - Fixed an issue where messages sent to a busy chat appeared twice.
 - Fixed approvals in different chats interfering with each other.
+
 ## 19.36
 _2026-09-03_
 
@@ -364,6 +385,7 @@ _2026-09-03_
 - Fixed a crash that could occur when windows were closed.
 - Actions the agent performs on a page are no longer repeated by mistake.
 - Fixed the agent sometimes responding to an outdated request.
+
 ## 19.35
 _2026-09-02_
 
@@ -382,10 +404,12 @@ _2026-09-02_
 - Saying "yes do that" to the builder now starts the build, and the composer stays in builder mode.
 - "Show me inbox" now opens Gmail instead of a random website.
 - A reminder that can't be saved now tells you instead of silently disappearing.
+
 ## 19.34
 _2026-08-31_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 19.33
 _2026-08-30_
 
@@ -410,10 +434,12 @@ _2026-08-30_
 - Answers are no longer lost when a turn ends with a question.
 - Uninstalling an extension now works.
 - Fixed two Cross View crashes. A corrupted saved chat board is rebuilt instead of crashing.
+
 ## 19.32
 _2026-08-13_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 19.31
 _2026-08-12_
 
@@ -435,6 +461,7 @@ _2026-08-12_
 - Fixed bookmarks being lost if they failed to load, and groups you named losing their names after a restart.
 - Fixed share links not adding the group to your sidebar.
 - Fixed direct messages in Buzz showing "pending" after sending, and channels going permanently dead after long histories.
+
 ## 19.30
 _2026-08-05_
 
@@ -448,6 +475,7 @@ _2026-08-05_
 - During setup, the second Google sign-in is no longer skipped for the account you sign in with.
 - Inbox emails that couldn't be read at first are no longer lost; they're retried automatically.
 - On-page pills and cards now appear only after the page has finished loading.
+
 ## 19.28
 _2026-08-03_
 
@@ -463,6 +491,7 @@ _2026-08-03_
 - WhatsApp no longer shows as "connected" when only the agent link is set up.
 - The General group can no longer be closed or deleted.
 - Fixed an issue with cookies and redirects that could cause some pages to load incorrectly.
+
 ## 19.27
 _2026-08-03_
 
@@ -482,6 +511,7 @@ _2026-08-03_
 - The agent can now access the Gmail of the account you signed in to Nav8 with.
 - Passwords are no longer written to a diagnostic log.
 - The agent no longer takes over your own tab when it isn't assigned to it.
+
 ## 19.26
 _2026-08-01_
 
@@ -501,6 +531,7 @@ _2026-08-01_
 - The password manager popover no longer collapses to a thin sliver.
 - The browser tab now closes on its own after you connect a Google account.
 - Setup no longer claims Gmail is connected when you've only signed in to Nav8.
+
 ## 19.25
 _2026-07-30_
 
@@ -519,6 +550,7 @@ _2026-07-30_
 - Fixed a crash that happened when onboarding finished.
 - The ✕ on chat approvals now dismisses them.
 - Pages without their own styling no longer show a darkened background.
+
 ## 19.24
 _2026-07-27_
 
@@ -541,10 +573,12 @@ _2026-07-27_
 - Fixed sign-in sessions being lost after restarting the app.
 - Fixed contact syncing getting stuck for hours.
 - Fixed Google Workspace tabs for multiple accounts not showing the right account.
+
 ## 19.23
 _2026-07-22_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 19.22
 _2026-07-22_
 
@@ -552,6 +586,7 @@ _2026-07-22_
 - Fixed Claude subscription sign-in so it correctly saves your login token, rejects invalid ones, and shows a clear message when authorization fails.
 - Fixed pins on boards with repetitive layouts (like Monday boards) so they now land on the correct item.
 - Improved account setup so the agent's business profile and owner details work the same way for every user.
+
 ## 19.21
 _2026-07-22_
 
@@ -563,6 +598,7 @@ _2026-07-22_
 - Fixed Monday boards where the page toolbar could hide the entire board view.
 - Fixed an issue where the agent could fail to read a page that was still loading or had changed.
 - Fixed a problem where related contacts or accounts were not being merged correctly.
+
 ## 19.20
 _2026-07-21_
 
@@ -581,6 +617,7 @@ _2026-07-21_
 - Renaming your agent no longer makes it refuse requests.
 - Monday groups stay tied to their board, and stray home and login tabs are cleaned up.
 - Fixed WhatsApp status and typing-jump issues during onboarding.
+
 ## 19.19
 _2026-07-21_
 
@@ -603,6 +640,7 @@ _2026-07-21_
 - Agent automation now stays in its own tab group instead of acting on the tab you have selected.
 - The agent no longer wrongly refuses a task as a duplicate based only on earlier chat.
 - Claude subscription sign-in is more reliable and gives clearer explanations when it's rejected.
+
 ## 19.18
 _2026-07-20_
 
@@ -626,6 +664,7 @@ _2026-07-20_
 - Fixed Gmail fetching and the connection of multiple Gmail accounts.
 - Fixed Calendar, Apps Script and Slides tools that weren't working.
 - Fixed unwanted popups from background helpers.
+
 ## 19.17
 _2026-07-14_
 
@@ -645,6 +684,7 @@ _2026-07-14_
 - Fixed checkboxes toggling twice when the agent clicked them.
 - Fixed pinned cards disappearing after dismissing the HUD, and deleted cards coming back.
 - Fixed Nav8 pulling you back to its Space every time you switched apps.
+
 ## 19.16
 _2026-07-13_
 
@@ -659,6 +699,7 @@ _2026-07-13_
 - Fixed an issue where the assistant's work was sometimes cut off mid-task because it was wrongly treated as stalled.
 - Onboarding now resumes correctly if you leave and come back.
 - Fixed an issue where the code from a Claude subscription setup wasn't being submitted.
+
 ## 19.15
 _2026-07-12_
 
@@ -667,6 +708,7 @@ _2026-07-12_
 - Google Tasks now works correctly when the agent works with a specific task list.
 ### Improved
 - The agent is better at recognizing when you're signed in to Google and at understanding your workspace.
+
 ## 19.14
 _2026-07-12_
 
@@ -675,6 +717,7 @@ _2026-07-12_
 ### Improved
 - Streamlined the Google sign-in permission screen so it asks for fewer permissions.
 - Existing Google connections made through other tools are now carried over automatically.
+
 ## 19.13
 _2026-07-11_
 
@@ -692,6 +735,7 @@ _2026-07-11_
 - Fixed a case where "reply all" could go to the wrong recipients.
 - Fixed a crash caused by non-English (non-ASCII) characters.
 - Fixed several cases where actions looked successful but didn't save.
+
 ## 19.12
 _2026-07-10_
 
@@ -713,6 +757,7 @@ _2026-07-10_
 - Colored group icons in the minimized sidebar now display correctly.
 - The sidebar gradient now stays aligned with its panel.
 - Page scrolling no longer freezes after touching a card.
+
 ## 19.11
 _2026-07-07_
 
@@ -729,6 +774,7 @@ _2026-07-07_
 - WhatsApp notifications now open the chat instead of an inline reply.
 ### Fixed
 - Background wake-ups no longer steal focus from the window you're working in.
+
 ## 19.10
 _2026-07-04_
 
@@ -737,6 +783,7 @@ _2026-07-04_
 ### Fixed
 - The URL you typed in the address bar now stays visible when a page fails to load.
 - Fixed a batch of correctness and reliability issues for smoother, more dependable everyday browsing.
+
 ## 19.09
 _2026-07-03_
 
@@ -749,16 +796,19 @@ _2026-07-03_
 - The agent hands work off between tasks more reliably and chooses the right route more often.
 - Memory and onboarding are more dependable, and the agent keeps its information fresher.
 - Security and stability are stronger across the app.
+
 ## 19.08
 _2026-07-01_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 19.07
 _2026-06-30_
 
 ### Fixed
 - Fixed a slow, resource-heavy start when launching Nav8 with many tabs, so the browser opens more smoothly.
 - Fixed an issue where the AI agent could sometimes fail on a page that was still loading.
+
 ## 19.06
 _2026-06-30_
 
@@ -776,16 +826,19 @@ _2026-06-30_
 - Agents now reliably start with all their tools, and a stuck turn can no longer lock up an agent.
 - Messages no longer get sent to Telegram by mistake when you switch groups.
 - Fresh installs can now connect to Google, and Nav8 no longer takes Google offline over an unreadable version.
+
 ## 19.05
 _2026-06-28_
 
 ### Fixed
 - Fixed the AI agent sometimes becoming unresponsive ("agent not responding") when its background components got into a broken state. Nav8 now repairs them automatically.
 - Fixed a crash that could leave connected app integrations unavailable.
+
 ## 19.04
 _2026-06-28_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 19.03
 _2026-06-27_
 
@@ -803,6 +856,7 @@ _2026-06-27_
 - Chat messages and replies no longer show up as empty bubbles.
 - "Working…" no longer gets stuck when a chat turn ends without a result.
 - Fixed an empty reply when Ozzy hands a task off to a specialist.
+
 ## 19.02
 _2026-06-21_
 
@@ -824,6 +878,7 @@ _2026-06-21_
 - Fixed a bug where the concierge opened the wrong Gmail group instead of the agent's own thread.
 - Fixed an issue where some tasks weren't handed off correctly to your agent team.
 - Fixed repeated keychain password prompts.
+
 ## 19.01
 _2026-06-16_
 
@@ -836,10 +891,12 @@ _2026-06-16_
 ### Fixed
 - Fixed the nav8 hologram getting stuck during onboarding.
 - Fixed an issue with the identity vault's keychain storage.
+
 ## 19
 _2026-06-16_
 
 - Stability and performance improvements.
+
 ## 18
 _2026-06-16_
 
@@ -852,18 +909,22 @@ _2026-06-16_
 - The app's startup screen is more dependable.
 ### Fixed
 - Fixed an issue with the file dialog in mini-apps.
+
 ## 17
 _2026-06-15_
 
 - Stability and performance improvements.
+
 ## 16
 _2026-06-15_
 
 - Stability and performance improvements.
+
 ## 15
 _2026-06-15_
 
 - Stability and performance improvements.
+
 ## 0.9.0
 _2026-06-15_
 
@@ -884,6 +945,7 @@ _2026-06-15_
 - Fixed Google apps getting stuck in an endless reload loop and re-clicking a tab sending it to the wrong account.
 - Fixed the "took too long" error appearing on long automations that actually succeeded.
 - Fixed repeated keychain password prompts.
+
 ## 0.8.5
 _2026-06-03_
 
@@ -905,6 +967,7 @@ _2026-06-03_
 - Fixed a crash when approving actions.
 - Fixed a launch crash and a flood of keychain prompts on macOS 26.
 - Fixed mobile-style pages rendering incorrectly in narrow panes.
+
 ## 0.8.4
 _2026-05-31_
 
@@ -925,6 +988,7 @@ _2026-05-31_
 - Fixed duplicate tab groups and lost conversation context across follow-up messages.
 - Fixed missing replies and API errors showing up inside chat bubbles.
 - Fixed a crash when closing split-view panes.
+
 ## 0.8.3
 _2026-04-28_
 
@@ -935,6 +999,7 @@ _2026-04-28_
 ### Fixed
 - Fixed a problem with the Nav8 installer download that could affect installation.
 - Improved the safety of sign-in and connected-app authorization pages.
+
 ## 0.8.2
 _2026-04-27_
 
@@ -955,10 +1020,12 @@ _2026-04-27_
 - Fixed the repeated keychain prompts: you now see one instead of three.
 - The app builder no longer hides your open browser tabs, and its preview refreshes automatically as changes are made.
 - The Extensions button now resets properly when its popover closes.
+
 ## 0.8.1
 _2026-04-22_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 0.8.0
 _2026-04-22_
 
@@ -977,6 +1044,7 @@ _2026-04-22_
 - Fixed tabs needing two clicks to activate, and stale "leave page" prompts appearing.
 - Fixed WhatsApp connection and pairing problems, including duplicate pairing windows and incomplete resets on disconnect.
 - Fixed Gmail and Google disconnect so they always show as disconnected.
+
 ## 0.7.3
 _2026-04-07_
 
@@ -984,10 +1052,12 @@ _2026-04-07_
 - Nav8 is more stable and reliable, especially during long sessions.
 ### Fixed
 - Fixed memory leaks that could make Nav8 use more memory and slow down over time.
+
 ## 0.7.2
 _2026-04-07_
 
 - Stability and performance improvements.
+
 ## 0.7.1
 _2026-04-06_
 
@@ -1007,10 +1077,12 @@ _2026-04-06_
 - Creating a group is easier, with icon and color pickers, and the group gets a default name if you leave it blank.
 ### Fixed
 - Gmail scans and Calendar analysis no longer cut off partway through.
+
 ## 0.65.3
 _2026-03-30_
 
 - Behind-the-scenes improvements and fixes.
+
 ## 0.65.2
 _2026-03-29_
 
@@ -1027,7 +1099,9 @@ _2026-03-29_
 - Joining a shared group no longer hangs.
 - Sidebar icons and tab states now display correctly.
 - Internal CrossView pages no longer appear in shared tab lists.
+
 ## 0.65.1
 _2026-03-29_
 
 - First public release.
+
