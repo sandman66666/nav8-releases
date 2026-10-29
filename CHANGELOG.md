@@ -1,5 +1,27 @@
 # What's new in Nav8
 
+## 19.58
+_2026-10-29_
+
+### New
+- **Cross View 2.0:** Organize your tabs into named screens with up to six panes each. An edit mode lets you freeze the view, drag tabs in from the strip, and dock, swap or move panes between screens.
+- **Incognito tabs:** Open incognito tabs in any chat, each with its own login. The agent can also see and open them.
+- **iMessage in the Inbox:** Incoming texts now show up in your Inbox like WhatsApp does. You get a conversation page and can send replies with approval.
+- **Nav8 for Chrome:** Chat now looks like Nav8's, with glass themes, a "New chat" button in the header, and tasks that fold away. Pinned apps fold into one icon on the thin rail.
+- **Real GitHub tools for chat agents:** Agents use your Mac's GitHub login. Anything that writes asks for approval first.
+- **Larger iPhone and iPad screens:** The chat sits beside or above the live tab. The iPhone chat list, composer and Inbox have been redesigned.
+- **Quick-start options:** Settings › General has a Setup section and an Updates section. A new Help › Welcome Tour walks through the main features.
+### Improved
+- **Approvals:** Cards show a short summary with "View all" for the full details. You get one reminder before a card expires, and View › Approvals shows what was decided and what ran.
+- **Tasks:** A task no longer disappears when its chat is deleted. Repeating tasks that wake the AI have a 15-minute minimum and a daily spending cap. Held tasks now say why.
+- **Google and calendar:** Calendar questions read every calendar on the account. Times appear in your own time zone, and deleting an event or sending an invite always asks first.
+- **Chat:** Wide tables scroll sideways. Links that look clickable now open. @mentions drill down to the exact email, file or task. ⌘K falls back to web search when nothing matches.
+### Fixed
+- **Resetting a chat:** Reset now asks first, and you can undo it for 10 seconds.
+- **Launch and stability:** Fixed a freeze at launch. Quitting from outside Nav8 now really quits. Tabs that load blank now recover, and the crash overlay no longer lingers on the next tab.
+- **Tabs and sidebar:** Very narrow tabs no longer show a × that closes them by accident. The tab strip scrolls to the selected tab, and pinned apps keep the page you left them on.
+- **Printing:** ⌘P now prints the page, and Expand/Collapse Chat Pane moves to ⌘⇧P.
+
 ## 19.57
 _2026-10-25_
 
