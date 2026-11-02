@@ -1,5 +1,23 @@
 # What's new in Nav8
 
+## 19.62
+_2026-11-02_
+
+### New
+- Plug a folder into `~/Nav8/Projects` as a project. Skills it brings run only after you approve a plan once.
+- Tasks now have a Calendar view next to the List in the Control Center. You can drag a run to move it, or click an empty slot to make a new task.
+- Building a task now asks for every approval once, then tests it for real and tells you what it checked. Tasks are tried live first, and you turn them on.
+- Every task run leaves a line on the task, including quiet runs. A task that needs you pauses, asks in its chat, and resumes when you answer.
+- Buying questions now get local and abroad prices, reviews, problems and unboxings. You also get a cited pick, and Buy hands the offer to the agent up to an approval card.
+- Home shows meeting prep and important proactive work as cards. Every Nav8 Mac banner opens its Inbox item.
+- Apps that connect to Nav8 can give you an approve link and a sign-in link. The sign-in link lets you log in to a site without sharing a password.
+### Improved
+- Switching tabs and loading pages now feel like Chrome. The old page stays up until the new one draws, so there are no blank or dark flashes.
+- The Inbox decides what is Important by judgment, not by which app it came from.
+- Group chats no longer forget what was said after a gap. The full history is also kept in the chat folder.
+### Fixed
+- Fixed several crashes: sending a message, submitting a bank form, and closing a tab.
+
 ## 19.59
 _2026-10-29_
 
