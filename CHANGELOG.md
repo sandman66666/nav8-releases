@@ -1,5 +1,27 @@
 # What's new in Nav8
 
+## 19.63
+_2026-11-04_
+
+### New
+- Task builder is now a guided flow: the chat becomes the build, with a slim bar above the input, and it folds to one line when done. A task build ends with two cards: Create, then its permissions in plain words.
+- Running tasks appear as a strip that pulls up from behind the message input, with a "View in tabs" button. Only the final ✓/✗/■ result stays in the chat.
+- Progress now shows as green ✓ rows in the chat on Mac, iPhone and Chrome, and is kept in history.
+- Nav8 for Chrome now matches the Mac chat: attach files, New task with the Task builder bar, running-task strip, task cards as buttons, New group, and a New messages line.
+- iPhone has a new home screen: Needs you, All / Important / Recent, a Mac switcher in the title, and Browse one tap away. Important sits behind a bell opposite your avatar.
+- Chats now show date and time, with a New messages line where you left off.
+- Extensions that need a desktop app now say so in the Inbox, with an Open button to install it or allow Nav8 once.
+### Improved
+- A remote Mac's chats now read like its own sidebar: Favorites first, then Chats sorted by last used.
+- The agent frame now shows only on the tab the agent is working in, with a thin moving ring so you can find it from anywhere.
+- Items you've replied to now leave the Inbox and Home.
+### Fixed
+- Chats now find their own history again, so they resume instead of starting fresh every turn.
+- An agent's tab stays in its own chat and no longer moves your window.
+- Omnibar suggestions no longer flash back after you press Enter.
+- Two turns in the same chat now each get their own reply and Working row, and the chat keeps what you saw.
+- Tabs that were put to sleep load again, and a refused tab switch no longer leaves another site on screen.
+
 ## 19.62
 _2026-11-02_
 
