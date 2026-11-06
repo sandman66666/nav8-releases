@@ -1,5 +1,22 @@
 # What's new in Nav8
 
+## 19.65
+_2026-11-06_
+
+### New
+- The bell is now your Inbox: click it to open the Inbox, and its badge counts what's waiting on you.
+- Task results now show up in the chat they belong to, and a task that has called you won't call again until you respond or 12 hours pass.
+- Settings > Google now lists each service (Mail, Calendar, Drive, Contacts) per account, so you can allow access one service at a time or for all accounts.
+- Project groups: turn a group into a project with a guided setup, a live Project page, and a folder icon in the sidebar.
+- Pick up where you left off: developers get a Continue card that reopens their recent projects.
+- Claude Fable 5.1 can now be picked in Settings.
+- Optionally bring your Chrome bookmarks and history into Nav8.
+### Improved
+- Redesigned sidebar, toolbar and tabs with a new glass look, a Search field with New chat beside it, and a cleaner chat panel.
+- Faster, smoother setup: a shorter sign-in, Claude login finishes without copying a code, and setup ends in a ready-to-use work group with a demo.
+### Fixed
+- Fixed a roughly 30-second freeze at launch.
+
 ## 19.63
 _2026-11-04_
 
