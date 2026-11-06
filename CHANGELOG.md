@@ -1,5 +1,22 @@
 # What's new in Nav8
 
+## 19.66
+_2026-11-06_
+
+### New
+- **Project pill on New Tab:** Choose a project from the New Tab bar. A card explains what a project is and lets you add sources: a folder on this Mac, Dropbox, Drive, Notion, a link, or People. It then starts project setup.
+- **Sidebar profile shows your Gmail account:** Your signed-in Gmail name and photo now appear in the sidebar profile.
+- **Knowledge map builds when you open it:** An empty map now fills in right away instead of waiting for the nightly run.
+### Improved
+- **Smarter ChatGPT sign-in:** If the first sign-in method fails, Nav8 automatically tries the other ChatGPT method. If both fail, it tells you plainly that an API key is what's left.
+- **A better story about you:** Your profile is now built from dated, repeated evidence. Facts you stated or imported are kept separate and are no longer described as recent. Bulk mail and promotions no longer count as repeated interest.
+- **Sidebar and tab polish:** Tabs are slightly taller. The chat pane's edge handle follows your theme. "See all" now sits right under your last chat. Your avatar and name show at the bottom and expand into the utility buttons when you hover. "All Chats" is now "Chat History".
+- **iPhone polish:** The notification bell is no longer cut off. Important rows show the full sender name. The live bar no longer lets the thread show through it.
+### Fixed
+- **Sign-in always has a way back:** Every sign-in row during setup now has a Cancel button. ChatGPT sign-in gives up after 45 seconds if no code appears, so it no longer spins for minutes.
+- **Chat tables no longer split words:** In a narrow chat pane, a table now scrolls sideways instead of breaking long words and email addresses across lines.
+- **Fewer missed topics:** Bulk notifications no longer clutter your topics. Important ones, such as failed payments and deadlines, still come through.
+
 ## 19.65
 _2026-11-06_
 
