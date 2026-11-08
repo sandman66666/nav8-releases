@@ -1,5 +1,29 @@
 # What's new in Nav8
 
+## 19.67
+_2026-11-08_
+
+### New
+- Skill packs: a chat can become a specialist (legal, HR, sales, small business and more), and tasks and daily updates build on expert skills.
+- Every chat now lists its actions with "Ask first" switches, so you choose what needs your approval. Each permission reads Ask me or Allowed.
+- Pre-approve actions from the iPhone and Chrome for each chat.
+- A project page, always first after Cross View, shows what is being worked on, with all tasks, filters, and Run now. A status page is also kept in the project folder and in the iPhone app.
+- Nav8 for Chrome: the sidebar shows 15 chats plus a "See all" list with search, and New group moves to the top.
+- Dropping one tab on another opens a Cross View space with just those two tabs.
+- Cursor is now always allowed as a coding agent.
+### Improved
+- The first chat reply after launch no longer waits for a cold agent start.
+- A relaunch reopens the chat you were in, with the pane and agent as you left them.
+- The chat agent hears when its coding agent finishes or needs input, and can respond.
+- Approval cards for trashing emails, deleting events and invites now name the email or event and give the time in words.
+- Tab handling is smoother: the agent reuses its own idle tabs, and can close tabs you opened when you ask it to clean up.
+### Fixed
+- A page now reflows correctly after a window or pane resize.
+- Zoom shortcuts (⌘=, ⌘-, ⌘0) work again.
+- Moving a calendar event works again.
+- A runaway page process that grows past 4 GB is now ended instead of hogging memory.
+- Option+Tab opens only the switcher, and the page no longer receives the Tab.
+
 ## 19.66
 _2026-11-06_
 
