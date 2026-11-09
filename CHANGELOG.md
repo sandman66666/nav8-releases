@@ -1,5 +1,24 @@
 # What's new in Nav8
 
+## 19.68
+_2026-11-09_
+
+### New
+- Nav8 can now run Claude on OpenCode, with a switch in Settings like the one for OpenAI.
+- OpenCode now works as a coding agent alongside Claude Code and Codex. It has live status, saved transcripts, resume, and you can steer it mid-task.
+- On iPhone, Nav8 now sends a daily noon reminder to install Nav8 on your Mac and connect, until your phone has connected to a Mac once. It asks for notification permission on install.
+- Every approval card now has an "Always approve" option. It also sets that permission to Allowed in Settings.
+- ⌘K lists the sections of every connected app, such as Notion pages, Dropbox folders and GitHub repos, the same way "@" does. Picking one opens its own chat.
+- The Inbox is now the Hub, and the Control Center is gone.
+### Improved
+- Settings is reorganized by area (Profile, AI, Coding, Integrations, Mobile & devices, Browser, Extensions, Appearance, Privacy, Backup & restore, Diagnostics). It also shows less, and agents are now managed in the agents hub.
+- Codex now runs with the model's largest context window, and its usage meter counts toward that window.
+- Project pages put "Up next" first. Done tasks fold away, tasks can repeat, and there is an hourly check for ready tasks.
+- Names and chat cards that were cut off can now be read in full.
+### Fixed
+- Pages opened from the Hub no longer have part of the page that ignores clicks.
+- Clicking a chat in All Chats now opens it.
+
 ## 19.67
 _2026-11-08_
 
