@@ -1,5 +1,23 @@
 # What's new in Nav8
 
+## 19.69
+_2026-11-10_
+
+### New
+- Every AI in Settings › Intelligence now has a Disconnect option, with a confirmation step.
+- The plan card ("OK to go ahead?") now offers a plain No, alongside "Change something" and "Yes".
+### Improved
+- The chat composer re-wraps and resizes when you change the chat pane width, and a wide pane shows every composer button instead of tucking them into the More menu.
+- Tabs now show their colour as a frame in the full colour, lighter when unselected, with a polished sidebar and no session pills.
+- A tab opened with a web address shows the site's name instead of "New Tab" until its title loads.
+- Chats get better instant names: bare numbers and generic verbs are skipped (for example, "Essay Owls" instead of "Write 600").
+- Saved thumbs-down reasons now apply to every message you send, so long chats keep following them.
+- The composer sends your text exactly as typed, with no automatic smart dashes or quotes.
+### Fixed
+- Fixed a crash on launch that affected the previous version, including on macOS 13.
+- A WhatsApp bulk send that gets cut off now keeps its chat and never messages anyone twice.
+- Scrolling up while the agent is writing lets you read without snapping back to the bottom.
+
 ## 19.68
 _2026-11-09_
 
