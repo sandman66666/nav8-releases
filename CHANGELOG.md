@@ -1,5 +1,27 @@
 # What's new in Nav8
 
+## 19.70
+_2026-11-13_
+
+### New
+- Minimized chats now appear as a floating bubble that opens into the full composer. The floating composer is see-through until you click it, has an expand button, and has a chat selector next to Send. Dragging the bubble or composer opens the chat.
+- The Hub has a new Feed. Every agent turn and task run appears as a post. You can open its chat, reply from the feed, filter and clear posts, and edit or delete tasks. Runs with nothing to report show in grey, and a checkbox hides them.
+- Tasks now ask for permission inside the task. You can approve a request once or approve it and not be asked again. Each task also has a run log that shows its next run, and you can open the Tasks list from the Feed.
+- Email triage now covers every inbox sender except bulk tabs. It runs three times a day, and it still works without AI. Account and security alerts that need action are included, and alerts go to your iPhone.
+- A Mac viewing another Mac's chat can now operate it without walking over to it.
+- Resting on the green window button now offers Move & Resize, like macOS does.
+- Every chat's agent now includes a personal-assistant skill.
+### Improved
+- The Hub inbox uses one ranked, fresh order. Stale items fade and clear automatically.
+- When a model hits its limit, Nav8 switches to another model. Tasks pause only when no model is left, and you get a single alert asking for your attention.
+- Model lists now follow new releases automatically.
+- A new task uses an idle worker instead of waiting in the queue.
+### Fixed
+- Clicks on Hub panels now land in the right place. Before, they could register about 200 pt to the right.
+- Rows in the Knowledge list now respond to clicks. The white line after the Hub rail is gone.
+- A task draft is no longer described as saved before you tap Create. A task build now asks only once.
+- Deleting a chat that has tasks now asks whether to delete the tasks too or keep them in General.
+
 ## 19.69
 _2026-11-10_
 
