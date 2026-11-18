@@ -1,5 +1,42 @@
 # What's new in Nav8
 
+## 19.72
+_2026-11-18_
+
+### New
+- **Notes search that understands meaning:** Notes now finds related notes even when your exact words don't match, and search stays fast with very large libraries (about 55 ms at 10,000 notes, down from 8.5 seconds).
+- **Share and export notes:** Export a note as a PDF, or share it as a single file that the recipient's Nav8 files into their Notes, tagged #shared.
+- **Notes become knowledge:** Nav8 picks out people, topics, and open loops from your notes so chat can recall them, including a person's notes. You can turn note cards on or off in Settings.
+- **Project chief of staff:** A project chat's agent now runs the project as its chief of staff, with an instructions card and a status page.
+- **Home by project:** Home shows what needs you from every source, along with each chat's day and next step.
+- **Unified Inbox status chips:** A quiet chip shows what Nav8 is doing about a thread, and a new Waiting split lists threads awaiting a reply.
+- **Read notes aloud and more in Notes:** Play a note or "Read this section" aloud, and use Nav8 Do on selected text in a note.
+- **Smoother WhatsApp chats:** Questions arrive as plain text, you can answer by typing "yes", and replies stay to the point.
+### Improved
+- Notes attachments are searched along with their note, and the agent can read them. Scanned documents the Mac can't read, such as Hebrew, are now read for you.
+- Notes list is cleaner: title-only rows with a note icon, long titles wrap, right-to-left titles display correctly, and tags are searchable and listed most recently used first.
+### Fixed
+- Fixed a chat freeze that could happen while the agent was working.
+
+## 19.71
+_2026-11-17_
+
+### New
+- **Unified Calendar app:** create and edit events with guests, location, Meet or Zoom links, and notes, plus private meeting prep.
+- **Nav8 Notes:** local notes with a clean editor, light and dark modes, and links between a note and a chat. Search notes from ⌘K, and delete notes with one confirmation.
+- **Unified Inbox "broom" cleanup:** AI-powered inbox cleanup that archives, labels, drafts replies, and lets you undo in one click.
+- **Nav8 Do button:** an "8" button in any text box that writes, rewrites, or fills forms. It can be turned off in Settings.
+- **Attachments in the Unified Inbox:** paperclips on mail with attachments, and you can preview files before downloading them.
+- **iPhone Feed:** the bell on your iPhone now opens your Mac's Feed, with approvals, replies, and clearing cards.
+- **Reply tracking inside Gmail, WhatsApp Web, and Slack,** with a Track button.
+- **Save as PDF:** the agent can save a page as a PDF on your Desktop.
+- **Images in chat on every engine,** including Codex users.
+### Improved
+- Codex and OpenCode now get better support: chats keep their conversation, coding agents show up with proper names, and you can answer their questions through Nav8.
+- Mail and Calendar now sync in the background, even when their tabs aren't open.
+### Fixed
+- Agents no longer take over a tab you already have open.
+
 ## 19.70
 _2026-11-13_
 
