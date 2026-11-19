@@ -1,5 +1,22 @@
 # What's new in Nav8
 
+## 19.73
+_2026-11-19_
+
+### New
+- WhatsApp is now built into Nav8 with its own themed page: attachments, profile pictures, read ticks and voice notes, plus your phone's chat lists and right-to-left message support.
+- Ask Nav8 from a WhatsApp chat and get replies in your own style, with emoji, contact cards and a "New from here" option.
+- Projects now start with a button-based interview before anything is created. Collaborative projects get a shared WhatsApp group for the team's agents.
+- Project notes now live in the project's folder (or its Drive folder) and appear at the top of the project page.
+- Notes, email threads and meetings the agent shows now open on their own as a tab in the chat that asked, instead of opening the whole app.
+- The Welcome Tour question now has tappable answer chips.
+### Improved
+- The Unified Inbox side panels now scale with the window, so threads stay readable in smaller windows.
+- The first-launch "Installing Nav8…" window now shows a time estimate, then "Starting Nav8…".
+- Approval plan cards now name the sending account, and the approved send keeps it after "Allow once".
+### Fixed
+- An approved send that fails now shows "Failed" with the reason instead of "Done".
+
 ## 19.72
 _2026-11-18_
 
