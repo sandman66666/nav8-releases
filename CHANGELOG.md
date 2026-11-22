@@ -1,5 +1,25 @@
 # What's new in Nav8
 
+## 19.74
+_2026-11-22_
+
+### New
+- **Nav8 for Apple TV:** browse from your TV with your chats on the left and the live tab filling the screen. Pair it from Settings → Mobile & devices → Pair Apple TV, and approve actions with a PIN.
+- **Slack pages:** open a Slack channel or direct message as its own Nav8 page, and find them from Cmd-K.
+- **Projects:** choose a WhatsApp group or a Slack channel as the team chat, keep project files in Slack, and let teammates join from either one.
+- **Task cards:** open a task to see its priority, dependencies, links, sub-tasks, notes and assigned agent. Tasks in a note now show as cards.
+- **Welcome Tour:** Help › Welcome Tour is now a guided eight-stop tour.
+### Improved
+- **Email:** threads without a summary show "✦ Summarize", the Email app suggests your own address in To, and the accounts header stays put while folders scroll.
+- **Notes:** the Nav8 Do button shows in every writing box.
+- **Cross View:** tabs split evenly by default, so six tabs make a 3x2 grid.
+### Fixed
+- Idle Nav8 no longer uses about 30% CPU.
+- After a crash or Force Quit, Nav8 reopens in its own window, and old background processes can no longer affect the new session.
+- Clicking a link keeps the old page on screen until the new one draws, instead of a blank flash.
+- Adding a Gmail label no longer opens the conversation and marks it read.
+- A person's email count no longer counts the same email twice from two connected mailboxes.
+
 ## 19.73
 _2026-11-19_
 
@@ -203,7 +223,7 @@ _2026-11-02_
 - Every task run leaves a line on the task, including quiet runs. A task that needs you pauses, asks in its chat, and resumes when you answer.
 - Buying questions now get local and abroad prices, reviews, problems and unboxings. You also get a cited pick, and Buy hands the offer to the agent up to an approval card.
 - Home shows meeting prep and important proactive work as cards. Every Nav8 Mac banner opens its Inbox item.
-- Apps that connect to Nav8 can give you an approve link and a sign-in link. The sign-in link lets you log in to a site without sharing a password.
+- Apps connected through mcp.nav8.ai with a key can give you an approve link and a sign-in link. The sign-in link lets you log in to a site without sharing a password. AI apps on the same Mac (Claude Code, Codex, Cursor) do not get these links; you answer their approvals on the card in Nav8.
 ### Improved
 - Switching tabs and loading pages now feel like Chrome. The old page stays up until the new one draws, so there are no blank or dark flashes.
 - The Inbox decides what is Important by judgment, not by which app it came from.
