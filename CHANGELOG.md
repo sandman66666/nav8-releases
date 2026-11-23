@@ -1,5 +1,11 @@
 # What's new in Nav8
 
+## 19.75
+_2026-11-23_
+
+### Fixed
+- Fixed an issue where opening a second copy of a sleeping tab could disconnect your connected inbox.
+
 ## 19.74
 _2026-11-22_
 
