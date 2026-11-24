@@ -1,5 +1,22 @@
 # What's new in Nav8
 
+## 19.76
+_2026-11-24_
+
+### New
+- Nav8 now starts with four guide chats that open real examples, like a Lisbon trip in Cross View, a product to watch and a sample project.
+- Project invites can arrive by email or direct message, and they have Join and Deny buttons right in the invite.
+- Unified Inbox: turn an email thread into a note with its tasks pulled out.
+- The agent can send and draft email from your Gmail aliases, and replies go out from the alias the message reached.
+- When controlling Nav8 on another Mac, you can go Back and Forward on the remote tab with its buttons, ⌘[ ⌘], ⌘← ⌘→, or your mouse's side buttons.
+- Nav8 on iPhone, Apple TV and the Chrome extension can now drive your Mac's live tabs. They show tab pictures, let you type an address, scroll, go back and forward, and show pages that are waiting for you.
+### Improved
+- WhatsApp banners are now off by default, and you can turn them on in Settings.
+- Chats open at the newest message right away, and loading older history no longer makes the view jump.
+- Unified Inbox: see who is on a thread, and the reply box grows as you write.
+### Fixed
+- Copying from the address bar now copies the full URL, and downloads keep non-English file names.
+
 ## 19.75
 _2026-11-23_
 
